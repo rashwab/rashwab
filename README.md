@@ -42,8 +42,8 @@
 - I love my cat 🐱
 
 ---
-## HTML CSS/ Flask projects 
--**[Sign in system](https://github.com/rashwab/flask)-- A simple regestration and log in system that stores credentials into the database using sqlite3 
+##  🖥️ HTML CSS/ Flask projects 
+-**[Flask Sign-In System](https://github.com/rashwab/flask)-- A simple regestration and log in system that stores credentials into the database using sqlite3 
 
 
 ### 🖥️ Python Projects & Experiments
