@@ -43,7 +43,7 @@
 
 ---
 ##  🖥️ HTML CSS/ Flask projects 
--**[Flask Sign-In System](https://github.com/rashwab/flask)-- A simple regestration and log in system that stores credentials into the database using sqlite3 
+-**[Flask Sign-In System](https://github.com/rashwab/flask)**-- A simple regestration and log in system that stores credentials into the database using sqlite3 
 
 
 ### 🖥️ Python Projects & Experiments
