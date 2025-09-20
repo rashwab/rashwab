@@ -13,7 +13,9 @@
 - Python 🐍  
 - HTML & CSS 🌐  
 - Pandas 📊  
-- Matplotlib 📈  
+- Matplotlib 📈
+- Bootstrap🅱️
+- SQLITE3
 
 ---
 
@@ -24,6 +26,9 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 
 ---
