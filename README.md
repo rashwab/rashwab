@@ -58,7 +58,7 @@ Here are some of my Python projects:
 - **[Helpdesk Ticket Management System](https://github.com/rashwab/py/tree/main/Helpdesk%20Ticket%20Management%20System)** – A system to manage helpdesk tickets.  
 - **[Library Management System for Issuing Books](https://github.com/rashwab/py/tree/main/Library%20Management%20System%20for%20Issuing%20Books)** – A system to manage library book issues.  
 
-  ![Library Management System Screenshot](assets/Screenshot_14.png)  
+  ![Library Management System Screenshot](Screenshot_14.png)  
 
 
 - **[Matplotlib_sandbox](https://github.com/rashwab/py/tree/main/Matplotlib_sandbox)** – A sandbox for experimenting with Matplotlib.  
