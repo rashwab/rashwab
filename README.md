@@ -56,7 +56,8 @@ Here are some of my Python projects:
 
 - **[Calculator](https://github.com/rashwab/py/tree/main/Calculator)** – A simple calculator built using Python.  
 - **[Helpdesk Ticket Management System](https://github.com/rashwab/py/tree/main/Helpdesk%20Ticket%20Management%20System)** – A system to manage helpdesk tickets.  
-- **[Library Management System for Issuing Books](https://github.com/rashwab/py/tree/main/Library%20Management%20System%20for%20Issuing%20Books)** – A system to manage library book issues.  
+- **[Library Management System for Issuing Books](https://github.com/rashwab/py/tree/main/Library%20Management%20System%20for%20Issuing%20Books)** – A system to manage library book issues.
+- (Image example) 
 - **[Matplotlib_sandbox](https://github.com/rashwab/py/tree/main/Matplotlib_sandbox)** – A sandbox for experimenting with Matplotlib.  
 - **[Shape App](https://github.com/rashwab/py/tree/main/Shape%20App)** – An application for shape-related operations.  
 - **[Ticket_system](https://github.com/rashwab/py/tree/main/Ticket_system)** – A system to manage tickets.  
