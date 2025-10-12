@@ -56,20 +56,12 @@ Here are some of my Python projects:
 
 - **[Calculator](https://github.com/rashwab/py/tree/main/Calculator)** – A simple calculator built using Python.  
 - **[Helpdesk Ticket Management System](https://github.com/rashwab/py/tree/main/Helpdesk%20Ticket%20Management%20System)** – A system to manage helpdesk tickets.
--  ![Helpdesk Ticket Managment System Screenshot](Ticket_System.png)  
+   ![Helpdesk Ticket Managment System Screenshot](Ticket_System.png)  
 - **[Library Management System for Issuing Books](https://github.com/rashwab/py/tree/main/Library%20Management%20System%20for%20Issuing%20Books)** – A system to manage library book issues.  
 
   ![Library Management System Screenshot](Screenshot_14.png)  
 
-
-- **[Matplotlib_sandbox](https://github.com/rashwab/py/tree/main/Matplotlib_sandbox)** – A sandbox for experimenting with Matplotlib.  
-- **[Shape App](https://github.com/rashwab/py/tree/main/Shape%20App)** – An application for shape-related operations.  
-- **[Ticket_system](https://github.com/rashwab/py/tree/main/Ticket_system)** – A system to manage tickets.  
 - **[Travel_expense](https://github.com/rashwab/py/tree/main/Travel_expense)** – A system to manage travel expenses.  
-- **[User Sign In System](https://github.com/rashwab/py/tree/main/User%20Sign%20In%20System)** – A user sign-in system.  
-- **[Expense](https://github.com/rashwab/py/tree/main/expense)** – An expense tracking system.  
-- **[Feedback system](https://github.com/rashwab/py/tree/main/feedback%20system)** – A system to collect feedback.  
-- **[Password Strength Check](https://github.com/rashwab/py/tree/main/password_strength_check)** – A tool to check password strength.  
-- **[Random](https://github.com/rashwab/py/tree/main/random)** – A collection of random Python scripts.  
+
 
 *I’m learning and building, so stay tuned for future projects!* 🚀
