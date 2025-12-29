@@ -54,14 +54,9 @@
 ### 🖥️ Python Projects & Experiments
 Here are some of my Python projects:
 
-- **[Calculator](https://github.com/rashwab/py/tree/main/Calculator)** – A simple calculator built using Python.  
+
 - **[Helpdesk Ticket Management System](https://github.com/rashwab/py/tree/main/Helpdesk%20Ticket%20Management%20System)** – A system to manage helpdesk tickets.
    ![Helpdesk Ticket Managment System Screenshot](Ticket_System.png)  
-- **[Library Management System for Issuing Books](https://github.com/rashwab/py/tree/main/Library%20Management%20System%20for%20Issuing%20Books)** – A system to manage library book issues.  
-
-  ![Library Management System Screenshot](Screenshot_14.png)  
-
-- **[Travel_expense](https://github.com/rashwab/py/tree/main/Travel_expense)** – A system to manage travel expenses.  
 
 
 *I’m learning and building, so stay tuned for future projects!* 🚀
