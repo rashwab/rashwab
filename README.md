@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rasheed! 👋</h1>
-<h3 align="center">18-year-old Python Enthusiast | AI & Flask Learner | He/Him</h3>
+<h3 align="center">18-year-old | AI & Flask Learner | He/Him</h3>
 
 ---
 
@@ -62,4 +62,4 @@ Here are some of my Python projects:
    ![Helpdesk Ticket Managment System Screenshot](Screenshot_24.png) 
 
 
-*I’m learning and building, so stay tuned for future projects!* 🚀
+
