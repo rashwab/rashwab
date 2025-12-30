@@ -36,7 +36,6 @@
 ### 📫 How to Reach Me
 - Email: <a href="mailto:rashid.ay.lawal@gmail.comProfile image
 rashid.ay.lawal@gmail.com">rashwaab@gmail.com</a>  
-- Twitter: [@rashwaab](https://twitter.com/rashwaab)  
 - LinkedIn: [Rashid Lawal](https://www.linkedin.com/in/rashid-lawal-635a67382/)
 
 ---
@@ -50,7 +49,9 @@ rashid.ay.lawal@gmail.com">rashwaab@gmail.com</a>
 ---
 ##  🖥️ HTML CSS/ Flask projects 
 -**[Flask Sign-In System](https://github.com/rashwab/flask)**-- A simple regestration and log in system that stores credentials into the database using sqlite3 
-
+ ![Flask Project Screenshot](Screenshot_21.png) 
+ ![Flask Project Screenshot](Screenshot_22.png) 
+ ![Flask Project Screenshot](Screenshot_23.png) 
 
 ### 🖥️ Python Projects & Experiments
 Here are some of my Python projects:
