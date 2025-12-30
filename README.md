@@ -34,7 +34,8 @@
 ---
 
 ### 📫 How to Reach Me
-- Email: <a href="mailto:rashwaab@gmail.com">rashwaab@gmail.com</a>  
+- Email: <a href="mailto:rashid.ay.lawal@gmail.comProfile image
+rashid.ay.lawal@gmail.com">rashwaab@gmail.com</a>  
 - Twitter: [@rashwaab](https://twitter.com/rashwaab)  
 - LinkedIn: [Rashid Lawal](https://www.linkedin.com/in/rashid-lawal-635a67382/)
 
@@ -55,8 +56,9 @@
 Here are some of my Python projects:
 
 
-- **[Helpdesk Ticket Management System](https://github.com/rashwab/py/tree/main/Helpdesk%20Ticket%20Management%20System)** – A system to manage helpdesk tickets.
-   ![Helpdesk Ticket Managment System Screenshot](Ticket_System.png)  
+- **[Helpdesk Ticket Management System]([https://github.com/rashwab/py/tree/main/Helpdesk%20Ticket%20Management%20System](https://github.com/rashwab/py/tree/main/Helpdesk%20Ticket%20Management%20System))** – A system to manage helpdesk tickets.
+   ![Helpdesk Ticket Managment System Screenshot](Screenshot_25.png)
+   ![Helpdesk Ticket Managment System Screenshot](Screenshot_24.png) 
 
 
 *I’m learning and building, so stay tuned for future projects!* 🚀
