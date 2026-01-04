@@ -35,7 +35,7 @@
 
 ### 📫 How to Reach Me
 - Email: <a href="mailto:rashid.ay.lawal@gmail.comProfile image
-rashid.ay.lawal@gmail.com">rashwaab@gmail.com</a>  
+<a>rashid.ay.lawal@gmail.com</a>  
 - LinkedIn: [Rashid Lawal](https://www.linkedin.com/in/rashid-lawal-635a67382/)
 
 ---
