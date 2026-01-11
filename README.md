@@ -1,24 +1,13 @@
 <h1 align="center">Hi, I'm Rasheed! 👋</h1>
-<h3 align="center">18-year-old | AI & Flask Learner | He/Him</h3>
+<h3 align="center">18-year-old | AI & Flask Learner | </h3>
 
 ---
 
 ### 🌱 Currently Learning
-- Artificial Intelligence (AI) 🤖  
-- Flask Web Development 🌐  
+- Artificial Intelligence  
+- Web Development   
 
 ---
-
-### 💬 Ask Me About
-- Python 🐍  
-- HTML & CSS 🌐  
-- Pandas 📊  
-- Matplotlib 📈
-- Bootstrap🅱️
-- SQLITE3
-
----
-
 ### 🔧 Tech & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,26 +29,13 @@
 
 ---
 
-### ⚡ Fun Facts
-- I play volleyball 🏐 and won a youth games tournament with my team  
-- I enjoy cooking 🍳  
-- I play games on the weekends 🎮  
-- I love my cat 🐱
 
----
 ##  🖥️ HTML CSS/ Flask projects 
 -**[Flask Sign-In System](https://github.com/rashwab/flask)**-- A simple regestration and log in system that stores credentials into the database using sqlite3 
  ![Flask Project Screenshot](Screenshot_21.png) 
  ![Flask Project Screenshot](Screenshot_22.png) 
  ![Flask Project Screenshot](Screenshot_23.png) 
 
-### 🖥️ Python Projects & Experiments
-Here are some of my Python projects:
-
-
-- **[Helpdesk Ticket Management System]([https://github.com/rashwab/py/tree/main/Helpdesk%20Ticket%20Management%20System](https://github.com/rashwab/py/tree/main/Helpdesk%20Ticket%20Management%20System))** – A system to manage helpdesk tickets.
-   ![Helpdesk Ticket Managment System Screenshot](Screenshot_25.png)
-   ![Helpdesk Ticket Managment System Screenshot](Screenshot_24.png) 
 
 
 
